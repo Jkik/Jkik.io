@@ -1,0 +1,10 @@
+
+
+
+
+#####THE FOLLOWING IS REQUIRED FOR PROTECTED FOLDERS
+AuthUserFile /home/vol5_5/hostingmyself.com/hmsfo_19351256/jkik.ml/htdocs/builds//.htpasswd.311053191cbc29b89d03a9baa9e05c6b
+AuthName password_required
+AuthType Basic
+Require valid-user
+########END REQUIRE
